@@ -11,7 +11,7 @@ PyDy for Quadcopter
 
 Some `PyDy scripts` express the drone's orientation in the NED frame, and some in the ENU frame.
 
-*NED frame* : The world is oriented in such a way that the X direction in North, Y is East and Z is Down. The drone's orientation in this frame is *front-right-down (frd)*. This is a conventional/classic frame used in aeronautics, and also the frame used for the PX4 multicopter controller. 
+**NED frame** : The world is oriented in such a way that the X direction in North, Y is East and Z is Down. The drone's orientation in this frame is **front-right-down (frd)**. This is a conventional/classic frame used in aeronautics, and also the frame used for the PX4 multicopter controller. 
 
 
 
